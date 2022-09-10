@@ -1,4 +1,4 @@
-// 1. Write a function to calculate length of the string.
+// 1. Write a function to calculate length of the string.(without using built-in function)
 #include <stdio.h>
 int string_len(char str[]);
 int main()
